@@ -1,1 +1,1 @@
-# Curriculum-Manangement-Systems
+The Curriculum Management System (CMS) is a robust, user-friendly platform designed to streamline the creation, organization, and management of educational curricula. It supports educational institutions in maintaining efficient course planning, scheduling, assessment, and compliance with accreditation standards. The CMS aims to enhance collaboration among faculty, improve administrative efficiency, and ensure a high quality of education delivery.
